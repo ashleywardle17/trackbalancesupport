@@ -1,2 +1,4 @@
-# trackbalancesupport
-Support page for Track &amp; Balance Pro app
+Track & Balance Pro Support
+
+For support, contact:
+ashley1997wardle@engineer.com
